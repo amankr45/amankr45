@@ -23,6 +23,19 @@ and <strong>Data Structures & Algorithms</strong>.
 
 <br>
 
+
+<p align="center">
+
+I like building backend applications, designing REST APIs, and solving real development problems.
+
+<br><br>
+
+Currently working with <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>FastAPI</strong>, <strong>PostgreSQL</strong>, <strong>Docker</strong>, and <strong>Linux</strong>.
+
+</p>
+
+<br>
+
 <a href="https://www.linkedin.com/in/aman-kumar-nistcse/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>

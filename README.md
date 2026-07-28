@@ -6,7 +6,7 @@ alt="Typing SVG" />
 
 </div>
 
-# 👋 Hey, I'm Aman Kumar
+# 👋 Hi, I'm Aman Kumar
 
 ### Backend Developer • Java • Spring Boot • FastAPI • PostgreSQL
 

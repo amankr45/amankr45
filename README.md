@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aman+Kumar;Backend+Developer;Java+%7C+Spring+Boot+%7C+FastAPI;PostgreSQL+%7C+Docker+%7C+Linux;Building+Production-Ready+Backend+Applications" alt="Typing SVG" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1200&color=70A5FD&center=true&vCenter=true&width=900&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Kumar;Backend+Developer+from+India;Building+with+Java+%26+Spring+Boot;FastAPI+%7C+PostgreSQL+%7C+Docker;Always+Learning+Something+New+%F0%9F%9A%80"
+alt="Typing Animation"/>
+
+</div>
 
 # 👋 Hey, I'm Aman Kumar
 

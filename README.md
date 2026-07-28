@@ -4,8 +4,6 @@
 
 </div>
 
-# Hey 👋 I'm Aman Kumar
-
 ### Backend Developer • Java • Spring Boot • FastAPI
 
 I enjoy building scalable backend applications with **Spring Boot** and **FastAPI**,

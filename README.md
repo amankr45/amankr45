@@ -96,3 +96,66 @@ src="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribut
 </picture>
 
 </p>
+
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">📚 Library Management System</h3>
+
+<p align="center">
+
+Backend application built with Spring Boot following layered architecture and REST API best practices.
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/amankr45/library-management-system">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🎓 Student Management System</h3>
+
+<p align="center">
+
+Java application demonstrating JDBC, PostgreSQL, Collections, File Handling, and clean architecture.
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,postgres,git" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/amankr45/student-management-system-java">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>

@@ -10,17 +10,6 @@ alt="Typing SVG" />
 
 ### Backend Developer • Java • Spring Boot • FastAPI • PostgreSQL
 
-<p align="center">
-Passionate about building scalable backend systems and REST APIs using
-<strong>Java</strong>, <strong>Spring Boot</strong>, and <strong>FastAPI</strong>.
-<br><br>
-Currently focused on
-<strong>Backend Development</strong>,
-<strong>System Design</strong>,
-<strong>Docker</strong>,
-and <strong>Data Structures & Algorithms</strong>.
-</p>
-
 <br>
 
 
@@ -30,7 +19,7 @@ I like building backend applications, designing REST APIs, and solving real deve
 
 <br><br>
 
-Currently working with <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>FastAPI</strong>, <strong>PostgreSQL</strong>, <strong>Docker</strong>, and <strong>Linux</strong>.
+My primary tech stack includes <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>FastAPI</strong>, <strong>PostgreSQL</strong>, <strong>Docker</strong>, and <strong>Linux</strong>.
 
 </p>
 

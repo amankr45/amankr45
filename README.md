@@ -16,9 +16,7 @@ alt="Typing SVG" />
 <p align="center">
 
 I like building backend applications, designing REST APIs, and solving real development problems.
-
-<br><br>
-
+<br>
 My primary tech stack includes <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>FastAPI</strong>, <strong>PostgreSQL</strong>, <strong>Docker</strong>, and <strong>Linux</strong>.
 
 </p>

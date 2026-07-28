@@ -39,11 +39,13 @@ continuously improving my **DSA**, **System Design**, and backend engineering sk
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph-dark.svg">
+  <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph.svg">
+  <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph.svg">
 
   <img
       alt="Pacman Contribution Graph"

@@ -67,9 +67,9 @@ and <strong>Data Structures & Algorithms</strong>.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amankr45&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=amankr45&theme=tokyonight&hide_border=true"/>
+<img
+width="60%"
+src="https://github-readme-streak-stats.herokuapp.com?user=amankr45&theme=tokyonight&hide_border=true"/>
 
 </p>
 

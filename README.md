@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1000&color=3DDC84&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aman+Kumar;Backend+Developer;Java+%7C+Spring+Boot+%7C+FastAPI;PostgreSQL+%7C+Docker+%7C+Linux;Always+Learning+Something+New" alt="Typing SVG" />
+
+</div>
+
 # Hey 👋 I'm Aman Kumar
 
 ### Backend Developer • Java • Spring Boot • FastAPI

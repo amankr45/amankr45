@@ -97,6 +97,7 @@ src="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribut
 
 </p>
 
+<!--
 
 # 🚀 Featured Projects
 
@@ -159,3 +160,5 @@ Java application demonstrating JDBC, PostgreSQL, Collections, File Handling, and
 </tr>
 
 </table>
+
+-->

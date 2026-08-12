@@ -81,11 +81,19 @@ src="https://github-readme-streak-stats.herokuapp.com?user=amankr45&theme=tokyon
 
 # 👾 Pac-Man Contribution Graph
 
-<p align="center">
+<br/><br/>
 
 <picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+
+
+<!-- <p align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph-dark.svg">
 
 <source media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph.svg">
@@ -95,7 +103,7 @@ alt="Pacman Contribution Graph"
 src="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph.svg">
 </picture>
 
-</p>
+</p> -->
 
 <!--
 

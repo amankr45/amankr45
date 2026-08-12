@@ -43,20 +43,25 @@ My primary tech stack includes <strong>Java</strong>, <strong>Spring Boot</stron
 
 # 🛠️ Tech Stack
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,redis,docker,linux,git,github,maven,idea,vscode,postman" />
+</p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" />
+
+
+<!-- <p>
+<img src="https://skillicons.dev/icons?i=java,spring,python" />
 </p>
 
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,redis" />
+<img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,maven,idea,vscode,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman" />
+</p> -->
 
 ---
 

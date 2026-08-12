@@ -23,6 +23,8 @@ My primary tech stack includes <strong>Java</strong>, <strong>Spring Boot</stron
 
 <br>
 
+
+<p align="center">
 <a href="https://www.linkedin.com/in/aman-kumar-nistcse/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -30,6 +32,7 @@ My primary tech stack includes <strong>Java</strong>, <strong>Spring Boot</stron
 <a href="mailto:amankrpes@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
 <!--
 <a href="YOUR_PORTFOLIO_LINK">

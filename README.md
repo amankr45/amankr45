@@ -99,7 +99,7 @@ srcset="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contri
 
 <img
 alt="Pacman Contribution Graph"
-src="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph.svg" width="100%">
+src="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph-dark.svg" width="100%">
 </picture>
 
 

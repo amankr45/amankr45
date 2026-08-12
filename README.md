@@ -90,8 +90,6 @@ src="https://github-readme-streak-stats.herokuapp.com?user=amankr45&theme=tokyon
   </picture> -->
 
 
-<br/>
-
 <p align="center">
 
 <picture>
@@ -102,7 +100,7 @@ srcset="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contri
 
 <img
 alt="Pacman Contribution Graph"
-src="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph.svg">
+src="https://raw.githubusercontent.com/amankr45/amankr45/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
 </p>

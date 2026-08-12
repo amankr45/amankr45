@@ -43,19 +43,16 @@ My primary tech stack includes <strong>Java</strong>, <strong>Spring Boot</stron
 
 # 🛠️ Tech Stack
 
-### 💻 Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" />
 </p>
 
-### 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,redis" />
 </p>
 
-### ⚙️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,maven,idea,vscode,postman" />

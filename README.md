@@ -41,7 +41,6 @@ My primary tech stack includes <strong>Java</strong>, <strong>Spring Boot</stron
 
 ---
 
-# 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,linux,git,github,vscode,postman" />

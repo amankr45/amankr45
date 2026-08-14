@@ -69,7 +69,7 @@ My primary tech stack includes <strong>Java</strong>, <strong>Spring Boot</stron
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 
 <img
 width="60%"
@@ -79,7 +79,7 @@ src="https://github-readme-streak-stats.herokuapp.com?user=amankr45&theme=tokyon
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amankr45&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amankr45&theme=tokyo-night&hide_border=true&area=true"/> -->
 
 ---
 

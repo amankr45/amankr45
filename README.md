@@ -67,7 +67,7 @@ My primary tech stack includes <strong>Java</strong>, <strong>Spring Boot</stron
 
 ---
 
-# 📊 GitHub Analytics
+<!-- # 📊 GitHub Analytics -->
 
 <!-- <p align="center">
 
@@ -81,7 +81,6 @@ src="https://github-readme-streak-stats.herokuapp.com?user=amankr45&theme=tokyon
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amankr45&theme=tokyo-night&hide_border=true&area=true"/> -->
 
----
 
 # 👾 Pac-Man Contribution Graph
 

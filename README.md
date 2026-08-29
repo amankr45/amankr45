@@ -17,7 +17,7 @@ alt="Typing SVG" />
 
 I like building backend applications, designing REST APIs, and solving real development problems.
 <br>
-My primary tech stack includes <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>Docker</strong>, and <strong>Linux</strong>.
+My primary tech stack includes <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, and <strong>Docker</strong>.
 
 </p>
 
@@ -46,7 +46,7 @@ My primary tech stack includes <strong>Java</strong>, <strong>Spring Boot</stron
 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,linux,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,vscode,postman" />
 </p>
 
 

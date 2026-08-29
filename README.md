@@ -8,7 +8,7 @@ alt="Typing SVG" />
 
 # 👋 Hi, I'm Aman Kumar
 
-### Backend Developer • Java • Spring Boot • FastAPI • PostgreSQL
+### Backend Developer • Java • Spring Boot • PostgreSQL
 
 <br>
 
